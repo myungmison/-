@@ -1,0 +1,8 @@
+{
+  "name": "온마음 교실: 내 마음 지도 그리기 & 수업 참여 마음 다루기",
+  "description": "특수교육대상학생을 위한 직관적인 5단계 마음 온도계, 몸과 호흡으로 마음 다루기, 자존감 칭찬 공식, 교사용 시계열 성장 로거",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
